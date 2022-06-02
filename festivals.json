@@ -7,7 +7,7 @@
       "ora_min":"18",
       "ora_max":"22",
       "place":"Spiaggia di Copacabana, Rio de Janeiro",
-      "evidenza":"true"
+      "evidenza":false
    },
    {
       "id":2,
@@ -17,7 +17,7 @@
       "ora_min":"9",
       "ora_max":"22",
       "place":"Boston, Stati Uniti",
-      "evidenza":"true"
+      "evidenza":true
    },
    {
       "id":2,
@@ -27,7 +27,7 @@
       "ora_min":"16",
       "ora_max":"18",
       "place":"Trani, Italia",
-      "evidenza":"false"
+      "evidenza":true
    },
    {
       "id":2,
@@ -37,7 +37,7 @@
       "ora_min":"18",
       "ora_max":"22",
       "place":"Spiaggia di Copacabana, Rio de Janeiro",
-      "evidenza":"false"
+      "evidenza":false
    },
    {
       "id":2,
@@ -47,6 +47,6 @@
       "ora_min":"13",
       "ora_max":"18",
       "place":"Spiaggia di Copacabana, Rio de Janeiro",
-      "evidenza":"true"
+      "evidenza":true
    }
 ]
