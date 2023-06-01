@@ -1,0 +1,32 @@
+[
+  {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "price": 10.99,
+    "availability": true
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "price": 8.99,
+    "availability": false
+  },
+  {
+    "title": "1984",
+    "author": "George Orwell",
+    "price": 12.99,
+    "availability": true
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "price": 9.99,
+    "availability": true
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "price": 7.99,
+    "availability": true
+  }
+]
