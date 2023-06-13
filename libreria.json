@@ -1,0 +1,47 @@
+[
+   {
+      "id": 1,
+      "title": "Il segreto della biblioteca",
+      "author": "Giovanni Rossi",
+      "price": "19.99€",
+      "description": "Un avvincente romanzo che racconta la storia di un giovane bibliotecario alla scoperta di un antico segreto nascosto tra gli scaffali.",
+      "on_sale": false,
+      "featured": false
+   },
+   {
+      "id": 2,
+      "title": "L'ombra del passato",
+      "author": "Laura Bianchi",
+      "price": "9.99€",
+      "description": "Un giallo mozzafiato che porta il lettore a seguire le indagini dell'ispettore Luca Rossi, alle prese con un misterioso omicidio.",
+      "on_sale": true,
+      "featured": false
+   },
+   {
+      "id": 3,
+      "title": "Il viaggio delle anime",
+      "author": "Simona Verdi",
+      "price": "14.99€",
+      "description": "Un'emozionante saga fantasy che trasporta il lettore in un mondo magico popolato da creature straordinarie e avventure epiche.",
+      "on_sale": true,
+      "featured": false
+   },
+   {
+      "id": 4,
+      "title": "La melodia del destino",
+      "author": "Marco Bianchi",
+      "price": "12.99€",
+      "description": "Una commovente storia d'amore ambientata nella Firenze rinascimentale, tra intrighi di corte e passioni proibite.",
+      "on_sale": false,
+      "featured": true
+   },
+   {
+      "id": 5,
+      "title": "L'enigma della profezia",
+      "author": "Elena Rossetti",
+      "price": "24.99€",
+      "description": "Un avventuroso romanzo che porta il lettore a risolvere un antico enigma per svelare il segreto dell'antica profezia.",
+      "on_sale": false,
+      "featured": false
+   }
+]
