@@ -1,0 +1,33 @@
+{
+  "data": "2022-06-28T11:00:00.000Z",
+  "conversione": {
+    "USD": {
+      "bitcoin": 48950.65,
+      "ethereum": 3595.23,
+      "litecoin": 192.76,
+      "ripple": 0.8475,
+      "cardano": 2.17
+    },
+    "EUR": {
+      "bitcoin": 41250.40,
+      "ethereum": 3025.10,
+      "litecoin": 162.48,
+      "ripple": 0.7158,
+      "cardano": 1.83
+    },
+    "MXN": {
+      "bitcoin": 976051.29,
+      "ethereum": 71651.90,
+      "litecoin": 3844.73,
+      "ripple": 16.93,
+      "cardano": 43.18
+    },
+    "CNY": {
+      "bitcoin": 316046.42,
+      "ethereum": 23198.16,
+      "litecoin": 1244.21,
+      "ripple": 5.48,
+      "cardano": 14.00
+    }
+  }
+}
