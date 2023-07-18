@@ -1,0 +1,13 @@
+{
+"data" : "2022-06-28T11:00:00.000Z",
+"conversione" : {
+"centimetri" : 0.01,
+"pollici" : 0.0254,
+"metri": 1,
+"chilometri": 1000,
+"libbre": 0.453592,
+"once": 0.0283495,
+"litri": 1,
+"galloni": 3.78541
+}
+}
